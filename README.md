@@ -1,4 +1,5 @@
 # Warranty Claim AI Agent
+<img width="1659" height="953" alt="image" src="https://github.com/user-attachments/assets/873aeecf-de0f-41a4-b883-5b336f1b29f9" />
 
 A demo / research project that runs a multi-agent warranty-claim pipeline. It combines:
 
