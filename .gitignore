@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+eggs/
+.eggs/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+
+# PyEnv
+.python-version
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Unit test / coverage
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.cache
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+.envrc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# SQLite
+*.db
+*.sqlite3
+
+# Python compiled
+*.pyc
+*.pyo
+*.pyd
+
+# Local settings
+local_settings.py
+instance/
+
+# Distribution artifacts
+pip-wheel-metadata/
+*.egg
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
